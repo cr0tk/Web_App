@@ -11,7 +11,7 @@ This Is Just A Web Application Made In 1 Week
     Android Studio 
   </li>
   <li>
-    Internet
+    Internet Web Browser
   </li>
 </ul>
 </h4>
